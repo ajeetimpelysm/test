@@ -1,5 +1,5 @@
 # scraping
-Scrping test
+Scraping test
 
 1. In index.php script I am able to fetch all href links.
 2. Js Element was not loading. So Couldn't able to fetch those href links.
